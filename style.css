@@ -1,7 +1,8 @@
 body {
-    margin: 0;
+    max-width: 1400px;
+    margin: auto;
     padding: 0;
-    background: #FFF;
+    background: #F3976C;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
