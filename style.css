@@ -8,15 +8,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-footer p {
-    font-weight: bold;
-}
-
-.grey{
-    color: #333333;
-}
-
-
 strong
 {
     font-weight: inherit;
@@ -668,6 +659,14 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
+}
+
+footer p {
+    font-weight: bold!important;
+}
+
+.grey{
+    color: #333333!important;
 }
 
 .container {
