@@ -368,10 +368,7 @@ a:hover {
     z-index: 2;
 }
 
-footer p{
-    font-size: 1.2em;
-    font-weight:900;
-}
+
 
 @media (min-width: 768px) {
     .site-navigation {
