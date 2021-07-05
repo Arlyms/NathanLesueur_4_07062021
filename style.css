@@ -710,6 +710,10 @@ p {
     margin: auto auto auto auto;
 }
 
+.social a{
+    padding: 22px;
+}
+
 h2 {
     font-size: 22px;
     line-height: 1.4em;
