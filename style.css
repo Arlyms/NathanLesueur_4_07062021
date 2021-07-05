@@ -764,8 +764,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    max-width: 300px;
-    max-height: 300px;
+    max-width: 270px;
+    max-height: 270px;
     background-size: cover;
 
 }
@@ -1049,6 +1049,16 @@ h4 {
         width: 180px;
         height: 320px;
     }
+
+    
+    .portfolio-thumb {
+    margin-bottom: 24px;
+    max-width: 270px;
+    max-height: 270px;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    }
 }
 
 @media (max-width: 400px) {
@@ -1062,4 +1072,20 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+@media (max-width: 280px) {
+    .bloc {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .portfolio-thumb {
+        margin-bottom: 24px;
+        max-width: 250px;
+        max-height: 250px;
+        background-size: cover;
+        margin-left: auto;
+        margin-right: auto;
+        }
 }
