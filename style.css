@@ -13,6 +13,11 @@ strong
     font-weight: inherit;
 }
 
+.orange{
+    color: #F3976C!important;
+}
+
+
 a,
 button {
     transition: all .3s ease-in-out;
